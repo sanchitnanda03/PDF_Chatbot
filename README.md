@@ -26,7 +26,7 @@ A Streamlit-powered chatbot that allows users to upload PDF documents and ask qu
 
 ---
 
-## 🧭 Project Architecture
+## 🧭 Project Flowchart
 
 ![PDF QnA Flowchart](https://github.com/sanchitnanda03/PDF_Chatbot/blob/main/assets/flowchart.png)
 
